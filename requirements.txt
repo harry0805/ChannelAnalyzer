@@ -1,0 +1,10 @@
+pytubefix==8.8.1
+pysrt==1.1.2
+numpy==2.2.0
+pandas==2.2.3
+spacy==3.8.3
+rich==13.9.4
+pyvis
+networkx
+nltk
+tqdm
